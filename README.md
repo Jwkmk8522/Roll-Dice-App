@@ -1,16 +1,7 @@
 # roll_dice_app
 
-A new Flutter project.
+My First App
+![Screenshot_1736397031](https://github.com/user-attachments/assets/ee348e30-271e-4195-a80a-0a3fc0772038)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1736397035](https://github.com/user-attachments/assets/3fdbfeb2-a2b9-4b8e-9700-f3b2d9e75671)
