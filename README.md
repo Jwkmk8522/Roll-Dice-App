@@ -1,6 +1,6 @@
 # roll_dice_app
 
-# My First App with Animation (Fade,Slide,Rotation Animation...)
+# My First App with Animations (Fade,Slide,Rotation Animation...)
 ![Screenshot_1736397031](https://github.com/user-attachments/assets/ee348e30-271e-4195-a80a-0a3fc0772038)
 
 
